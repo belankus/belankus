@@ -8,6 +8,7 @@ Welcome to my GitHub profile! I'm a web developer with a passion for learning ne
 - **[BKBlog](https://github.com/belankus/BKBlog):** An open-source blog project with the production version available at [blog.bellawan.my.id](https://blog.bellawan.my.id).
 - **[Portfolio Website](https://bellawan.my.id):** My personal portfolio website showcasing my projects and skills.
 - **[Spill Spoil](https://spillspoil.vercel.app):** A social media application currently under active development, focused on sharing text and links between devices.
+- **[MailTemp](https://mailtemp.my.id):** Disposable email inbox, auto-expires in 1 hour.
 
 ## 🌱 I’m currently learning ...
 - **React.js and Next.js:** I continue to deepen my knowledge of React.js and Next.js, focusing on advanced concepts and best practices to build efficient and scalable web applications.
@@ -36,7 +37,5 @@ Welcome to my GitHub profile! I'm a web developer with a passion for learning ne
 - **Website:** Visit my personal website at [bellawan.my.id](https://bellawan.my.id).
 - **Instagram:** Follow me on Instagram [@belankus](https://instagram.com/belankus).
 
-## 😄 Pronouns:
-- **He/Him**
 
 Feel free to explore my projects and connect with me if you’d like to collaborate or chat about tech!
